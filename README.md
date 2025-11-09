@@ -2,5 +2,5 @@
 
 Hoy voy a crear mi primer repo
 
-pruebas
+Este es un nuevo cambio
 
